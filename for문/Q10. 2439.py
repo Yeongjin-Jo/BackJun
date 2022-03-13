@@ -1,0 +1,1 @@
+[print((" "*(j-1))+("*"*(i+1))) for i,j in enumerate(range(int(input()),0,-1))]
